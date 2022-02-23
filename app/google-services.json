@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302200521517",
+    "firebase_url": "https://matatu-scanner-default-rtdb.firebaseio.com",
+    "project_id": "matatu-scanner",
+    "storage_bucket": "matatu-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302200521517:android:2043d02c729300bc5c09a4",
+        "android_client_info": {
+          "package_name": "com.mulei.qr_code_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302200521517-bkhgug32tcl0qtbqt7cbnqc410jacoso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mulei.qr_code_scanner",
+            "certificate_hash": "c8087edb26a30ee9985f31c9be02fde688a9d593"
+          }
+        },
+        {
+          "client_id": "302200521517-cilu2mmsfb2iq7thhmcs0upcud556o3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjEEDbf_YOFcroyPJXmJAqSCRZbU0FRbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302200521517-cilu2mmsfb2iq7thhmcs0upcud556o3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
